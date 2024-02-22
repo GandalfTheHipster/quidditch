@@ -1,2 +1,2 @@
 # quidditch
-a simple quidditch simulation engine
+a simple quidditch simulation engine built in python
