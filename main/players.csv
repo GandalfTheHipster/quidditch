@@ -1,6 +1,30 @@
-team_name,player_name,position,skill_level
-Gryffindor,Harry Potter,Seeker,9
-Gryffindor,Hermione Granger,Chaser,8
-Slytherin,Draco Malfoy,Seeker,8
-Hufflepuff,Cedric Diggory,Seeker,9
-Ravenclaw,Cho Chang,Seeker,8
+team,name,position,skill_level
+Gryffindor,Harry Potter,Seeker,89
+Gryffindor,Hermione Granger,Keeper,46
+Gryffindor,Ron Weasley,Beater,93
+Gryffindor,Ginny Weasley,Beater,42
+Gryffindor,Neville Longbottom,Chaser,60
+Gryffindor,Luna Lovegood,Chaser,42
+Gryffindor,Sirius Black,Chaser,74
+Slytherin,Draco Malfoy,Seeker,68
+Slytherin,Remus Lupin,Keeper,42
+Slytherin,Nymphadora Tonks,Beater,83
+Slytherin,Albus Dumbledore,Beater,38
+Slytherin,Severus Snape,Chaser,36
+Slytherin,Minerva McGonagall,Chaser,92
+Slytherin,Filius Flitwick,Chaser,88
+Hufflepuff,Cedric Diggory,Seeker,92
+Hufflepuff,Pomona Sprout,Keeper,82
+Hufflepuff,Oliver Wood,Beater,38
+Hufflepuff,Angelina Johnson,Beater,70
+Hufflepuff,Katie Bell,Chaser,41
+Hufflepuff,George Weasley,Chaser,82
+Hufflepuff,Fred Weasley,Chaser,99
+Ravenclaw,Cho Chang,Seeker,75
+Ravenclaw,Garrick Olivander,Keeper,60
+Ravenclaw,Marietta Edgecombe,Seeker,51
+Ravenclaw,Maisy Reynolds,Beater,95
+Ravenclaw,Arnold Streeton,Beater,48
+Ravenclaw,Omar Shaw,Chaser,49
+Ravenclaw,Justin Steele,Chaser,97
+Ravenclaw,Luna Lovegood,Chaser,65

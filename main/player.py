@@ -6,4 +6,5 @@ class Player:
         self.skill_level = skill_level  # Arbitrary scale, e.g., 1-10
 
     def __str__(self):
-        return f"{self.name}, Position: {self.position}, Skill Level: {self.skill_level}, Position: {self.team}"
+        return f"{self.name}, Position: {self.position}, Skill Level: {self.skill_level}"
+        # return f"{self.name}, Position: {self.position}, Skill Level: {self.skill_level}, Team: {self.team}"

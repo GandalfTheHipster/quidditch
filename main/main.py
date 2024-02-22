@@ -1,13 +1,17 @@
 # main.py
 import csv
+from loading_players import load_players, list_teams
 from quidditch_game import simulate_quidditch_game
 from schedule import generate_schedule
-from team import Team  # Assuming the Team class is defined in team.py
+from team import Team
 from print_text import print_standings  # Assuming this is a function that prints standings
 
 # Setup team structures
 team_names = ["Gryffindor", "Slytherin", "Hufflepuff", "Ravenclaw"]
 teams = [Team(name) for name in team_names]
+
+load_players("players.csv")
+list_teams()
 
 # Generate the game schedule
 schedule = generate_schedule(teams)
